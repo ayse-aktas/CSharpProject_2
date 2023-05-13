@@ -1,0 +1,11 @@
+C:\Users\Ayse\source\repos\ayse_aktas_proje_odevi\ayse_aktas_proje_odevi\bin\Debug\ayse_aktas_proje_odevi.exe.config
+C:\Users\Ayse\source\repos\ayse_aktas_proje_odevi\ayse_aktas_proje_odevi\bin\Debug\ayse_aktas_proje_odevi.exe
+C:\Users\Ayse\source\repos\ayse_aktas_proje_odevi\ayse_aktas_proje_odevi\bin\Debug\ayse_aktas_proje_odevi.pdb
+C:\Users\Ayse\source\repos\ayse_aktas_proje_odevi\ayse_aktas_proje_odevi\obj\Debug\ayse_aktas_proje_odevi.csproj.AssemblyReference.cache
+C:\Users\Ayse\source\repos\ayse_aktas_proje_odevi\ayse_aktas_proje_odevi\obj\Debug\ayse_aktas_proje_odevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ayse\source\repos\ayse_aktas_proje_odevi\ayse_aktas_proje_odevi\obj\Debug\ayse_aktas_proje_odevi.Properties.Resources.resources
+C:\Users\Ayse\source\repos\ayse_aktas_proje_odevi\ayse_aktas_proje_odevi\obj\Debug\ayse_aktas_proje_odevi.csproj.GenerateResource.cache
+C:\Users\Ayse\source\repos\ayse_aktas_proje_odevi\ayse_aktas_proje_odevi\obj\Debug\ayse_aktas_proje_odevi.csproj.CoreCompileInputs.cache
+C:\Users\Ayse\source\repos\ayse_aktas_proje_odevi\ayse_aktas_proje_odevi\obj\Debug\ayse_aktas_proje_odevi.exe
+C:\Users\Ayse\source\repos\ayse_aktas_proje_odevi\ayse_aktas_proje_odevi\obj\Debug\ayse_aktas_proje_odevi.pdb
+C:\Users\Ayse\source\repos\ayse_aktas_proje_odevi\ayse_aktas_proje_odevi\obj\Debug\ayse_aktas_proje_odevi.Form1.resources
